@@ -6,7 +6,7 @@ namespace figuras
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("!Hola Mundo!");
             Console.ReadKey();
         }
     }
